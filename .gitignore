@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+**/*.svg
+notebooks/L12_plotting_visualization/aapl_iPhone_annoucements.png
+notebooks/L12_plotting_visualization/aapl_iPhone_annoucements.pdf
+notebooks/L12_plotting_visualization/aapl_iPhone_annoucements.jpeg
